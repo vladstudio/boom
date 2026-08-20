@@ -6,6 +6,8 @@ When you close a window, it explodes into tiny particles that drift upward and f
 
 <video src="web/boom.mp4" width="800" autoplay loop muted playsinline></video>
 
+Requires macOS 15 (Sequoia) or later.
+
 ## Install
 
 1. Open **Terminal** (press ⌘Space, type "Terminal", press Enter)
